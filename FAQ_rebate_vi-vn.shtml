@@ -437,13 +437,14 @@
                         <div class="panel-heading" role="tab" id="heading2">
                             <h4 class="panel-title">
                                 <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapse2" aria-expanded="false" aria-controls="collapse2">
-                                    2. Tiền Hoàn Trả Được Tính Như Thế Nào?
+                                    2. Tiền Hoàn Trả ( tiền hoa hồng ) Được Tính Như Thế Nào?
                                 </a>
                             </h4>
                         </div>
                         <div id="collapse2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading2">
                             <div class="panel-body">
                                 <p>Tiền hoàn trả sẽ được tính dựa trên tổng số tiền đặt cược hợp lệ tại các sản phẩm mà quý khách tham gia chơi trong thời gian quy định. </p>
+                                <p>LƯU Ý : Tiền hoàn trả ( tiền hoa hồng ) chỉ có thể rút,nếu tham gia đặt cược sẽ không được tính cược hợp lệ.</p>
                             </div>
                         </div>
                     </div>
